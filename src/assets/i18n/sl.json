@@ -4,19 +4,19 @@
     "subtitle1": "Priprava in upravljanje z DPIA",
     "subtitle2": "Orodja in slovar",
     "start_app": "DPIA porogram",
-    "description": "This software by the <strong>French Data Protection Authority (CNIL)</strong> is meant to guide the data controllers in building and demonstrating compliance to the GDPR. It helps to properly carry out a data protection impact assessment by facilitating the use of the PIA method developed by the CNIL.",
+    "description": "Program <strong>French Data Protection Authority (CNIL)</strong> je namenjen kot vodilo upravljavcem osebnih podatkov za pripravo in prikaz skladnosti obdelave podatkov z GDPR. Je pomoč pri pripravi Ocene učinka v zvezi z varstvom podatkov (DPIA), kot jo je pripravil CNIL.",
     "start": "Začetek"
   },
   "header": {
     "logo_title": "Ocena učinka v zvezi z varstvom osebnih podatkov (PIA)",
     "logo_subtitle": "",
-    "homepage_link": "Dashboard",
+    "homepage_link": "Nadzorna stran",
     "knowledge_base_link": "Baza znanja",
     "pia_example_link": "PIA primer",
     "languages": {
-      "official_translation": "Original version",
-      "cnil_translations": "CNIL provided translations",
-      "community_translations": "Community provided translations",
+      "official_translation": "Originalna izdaja",
+      "cnil_translations": "Prevod",
+      "community_translations": "Prevod za uporabo",
       "fr": "Français",
       "en": "English",
       "cz": "Česky",
@@ -24,14 +24,15 @@
       "nl": "Nederlands",
       "pl": "Polski",
       "de": "Deutsch",
-      "es": "Español"
+      "es": "Español",
+      "sl": "Slovensko"
     },
     "tools": {
-      "title": "Tools",
-      "settings": "Settings",
-      "accessibility": "Visually impaired accessibility (high contrast colors, daltonism)",
-      "help": "Help",
-      "about": "About"
+      "title": "Orodja",
+      "settings": "Nastavitve",
+      "accessibility": "Nastavitve pogleda",
+      "help": "Pomoč",
+      "about": "O programu"
     }
   },
   "homepage": {
@@ -46,18 +47,18 @@
       "author": "Author",
       "assessor": "Reviewer",
       "validator": "Validator",
-      "new_pia": "New PIA",
-      "import_pia": "Import PIA",
-      "list_rocket_content": "Get started ! To initiate <br>a PIA, click on the +",
-      "card_rocket_content": "Get started !<br><br>To initiate a PIA,<br> click on New PIA"
+      "new_pia": "Nov PIA",
+      "import_pia": "Uvoz PIA",
+      "list_rocket_content": "Pričetek ! Za pričetek <br>a PIA, označi +",
+      "card_rocket_content": "Pričetek !<br><br>To Nov PIA,<br> označi Nov PIA"
     },
     "cards": {
-      "new_pia": "New PIA",
-      "placeholder_new_pia": "New PIA",
+      "new_pia": "Nov PIA",
+      "placeholder_new_pia": "Nov PIA",
       "or": "or",
-      "import_pia": "Import PIA",
-      "placeholder_import_pia": "Import PIA",
-      "title_close_creation": "Close",
+      "import_pia": "Uvozi PIA",
+      "placeholder_import_pia": "Uvozi PIA",
+      "title_close_creation": "Zapri",
       "pia_name": "PIA",
       "placeholder_pia_name": "PIA's title",
       "author": "Editing",
